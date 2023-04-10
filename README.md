@@ -24,12 +24,10 @@ Imagem do WhatsApp de 2023-04-09 à(s) 11 00 30
 
 
 <h1>Fontes<h1>
-Fonte: Inter, boid, 12, fixed size, centralizado e align middle
+  
 
-Fonte nome do perfil: Inter, boid, 24, fixed size, centralizado e align middle
-
-  <h1>Cores</h1>
-cor: FA8553, 2722F3, 000000, FFFBFB
-
+ <h1>Cores</h1>
+  <img>![int3](https://user-images.githubusercontent.com/113267971/231017847-f192ea4a-9631-4d77-83ef-6d1d7a011c6b.png)
+ </img>
   <h1>Diagrama</h1>
 Imagem do WhatsApp de 2023-04-09 à(s) 10 05 27
