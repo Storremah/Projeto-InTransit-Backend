@@ -1,6 +1,11 @@
 # Projeto-InTransit-Backend
-
-<h1>Tema:Figma, Modelagens UML e Pacote Json</h1>
+<!DOCTYPE html>
+<head>
+<head>
+    <h1>Projeto-Intransit-de-Back-Mobile</h1>
+    <h2>Tema:Figma, Modelagens UML e Pacote Json </h2>
+</head>
+<body>
 Projeto desenvolvido para aplicação mobile, onde tivemos contato com varias ferramentas para construção do projeto como Figma, Diagrams.net, Intellij e Android Studio.
 
 <h1>Etapas da construção do projeto</h1>
@@ -38,3 +43,6 @@ Projeto desenvolvido para aplicação mobile, onde tivemos contato com varias fe
   <h1>Diagrama</h1>
 <img>![Imagem do WhatsApp de 2023-04-09 à(s) 10 05 27](https://user-images.githubusercontent.com/111431438/230778319-2a177a41-a2bf-4ebd-80be-5fcfda2d4c6c.jpg)
 </img>
+
+</body>
+</html>
