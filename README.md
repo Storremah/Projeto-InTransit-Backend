@@ -3,7 +3,7 @@
 <head>
 <head>
     <h1>Projeto-Intransit-de-Backend</h1>
-    <h2>Tema:Figma, Modelagens UML e Pacote Json </h2>
+    <h2>Tema: Figma, Modelagens UML e Pacote Json </h2>
 </head>
 <body>
 Projeto desenvolvido para aplicação mobile, onde tivemos contato com varias ferramentas para construção do projeto como Figma, Diagrams.net, Intellij e Android Studio.
