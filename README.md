@@ -27,7 +27,7 @@ Imagem do WhatsApp de 2023-04-09 à(s) 11 00 30
   
 
  <h1>Cores</h1>
-  <img> ![int3](https://user-images.githubusercontent.com/113267971/231017926-35f53cd0-621e-4223-8d31-1929269606bc.png)
+  <img>(https://user-images.githubusercontent.com/113267971/231017926-35f53cd0-621e-4223-8d31-1929269606bc.png)
 </img>
   <h1>Diagrama</h1>
 Imagem do WhatsApp de 2023-04-09 à(s) 10 05 27
