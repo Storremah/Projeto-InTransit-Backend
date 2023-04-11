@@ -30,28 +30,30 @@
         </ul>
 <h2>Requisitos funcionais</h2>
 <h3>Requisitos da instituição</h3>
-  <h4> Realizar cadastro da instituição</h4>
+  <ul>
+  <li><h4> Realizar cadastro da instituição</h4></li>
   <p> Na tela de cadastro, a instituição colocará seus dados e um responsavel para cuidar da tela instituição.</p>
-  <h4> Realizar login da instituição</h4>
+  <li><h4> Realizar login da instituição</h4></li>
   <p> Na tela de login, a instituição tera como seu user o cnpj e sua senha será criada pelo diretor ou responsavel da instituição.</p>
-  <h4> Habilitar rotas</h4>
+  <li><h4> Habilitar rotas</h4></li>
   <p> A instituição habilitará as rotas através da geolocalização dos seus alunos e fará a rota mais ideal para seus motoristas terem eficiencia e rapidez no embarque e desenbaruqe dos alunos na instituição.</p>
 <h3>Requisitos do aluno</h3>
-  <h4> Realizar cadastro do aluno</h4>
+  <li><h4> Realizar cadastro do aluno</h4></li>
   <p> Na tela de cadastro, o aluno que faz parte de um instituição de ensino se cadastra nesse aplicativo, onde ele pode ver os motoristas que fazem rotas na sua localidade para leva-lo ate a instituição.</p>
-  <h4> Realizar login do aluno </h4>
+  <li><h4> Realizar login do aluno </h4></li>
   <p> Na tela de login o aluno ira efetuar seu login atraves de user e senha(gerada pela instituição), para acessar o corpo do aplicativo, e usufruir do mesmo.</p>
-  <h4> Identificar localização do aluno</h4>
+  <li><h4> Identificar localização do aluno</h4></li>
   <p> Na tela de localidade, ira mostrar a localização exata do aluno por meio do seu endereço. E nisso o motorista com a rota nessa área irá busca-lo, sem atrapalhar sua rota.</p>
 <h3>Requisitos do motorista</h3>
-  <h4> Realizar cadastro do motorista</h4>
+  <li><h4> Realizar cadastro do motorista</h4></li>
   <p> Na tela de cadastro do motorista, ele ira se cadastra colocando suas informações pessoais, além de colocar os dados do seu veiculo. Nisso sera realizado uma avaliação para ver se o motorista e o veiculo estão aptos para a função. Estando apto ele reberá sua senha pessoal no email.</p>
-  <h4> Realizar login do motorista</h4>
+  <li><h4> Realizar login do motorista</h4></li>
   <p> Na tela de login o motorista usará sua senha pessoal, que está no seu email para login no aplicativo.</p>
-  <h4> Habilitar ativação do motorista</h4>
+  <li><h4> Habilitar ativação do motorista</h4></li>
   <p> Na tela do motorista, vai ter um botão para sinalizar sua ativação na rota. Com isso a Instituição liberará o motorista e sua rota personalizada.</p>
-  <h3> Desabilitar ativação do motorista</h3>
+  <li><h4> Desabilitar ativação do motorista</h4></li>
    <p> Na tela do motorista haverá um botão com a funcionalidade de sinalizar a desativação de sua rota no momento em que o condutor encerrar o seu serviço. A partir     disto a sua rota é desligada automaticamente.</p>
+ </ul>
   
 <h1>Projeto Figma</h1>
 <p>No périodo anterior fizemos o uso do Figma para a modelagem do designer do nosso projeto em outra disciplína, deste modo conseguimos criar algo mais próximo do que temos como ideal do visual final do aplicativo.</p>
