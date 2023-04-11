@@ -96,7 +96,7 @@
 
 <h1>JSON</h1>
 
-<img>![int5](https://user-images.githubusercontent.com/113267971/231237634-a2726957-4190-4d8f-b6d7-e4bf7d914614.png)</img>
+<img>![Print JSON](https://user-images.githubusercontent.com/113267971/231304507-d7d0509c-ac00-47f7-9dfa-8163fccb01c7.png)</img>
 
 </body>
 </html>
