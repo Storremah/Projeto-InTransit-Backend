@@ -8,8 +8,8 @@
 </head>
 <body>
 
-    <p>Projeto desenvolvido para aplicação mobile, onde tivemos contato com varias ferramentas para 
-    construção do projeto como Figma, Diagrams.net, Intellij e Android Studio.</p>
+    Projeto desenvolvido para aplicação mobile, onde tivemos contato com varias ferramentas para 
+    construção do projeto como Figma, Diagrams.net, Intellij e Android Studio.
 
 <h1>Etapas da construção do projeto</h1>
  <ul>
