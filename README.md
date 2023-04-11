@@ -68,8 +68,13 @@
 <h1>Projeto Figma</h1>
 <p>No périodo anterior fizemos o uso do Figma para a modelagem do designer do nosso projeto em outra disciplína, deste modo conseguimos criar algo mais próximo do que temos como ideal do visual final do aplicativo.</p>
 
+ <h2>Imagens das telas de nagegação do aluno</h2>
+
 <img>![Imagem do WhatsApp de 2023-04-09 à(s) 11 00 30](https://user-images.githubusercontent.com/111431438/230777143-a4277f4c-afa3-49d6-9fdf-731d3fc7eb5c.jpg)</img>
 
+<h2>Imagens do cadastro do motorista </h2>
+  
+  <img>![int6](https://user-images.githubusercontent.com/113267971/231284358-d97dc838-e041-4209-be14-79cfb8f649be.jpg)</img>
 
 <h2>Fontes</h2>
     
