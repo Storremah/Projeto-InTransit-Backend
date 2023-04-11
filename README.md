@@ -7,9 +7,8 @@
     <p>OO Intransit é um aplicativo que tem a finalidade de ajudar alunos a se locomoverem da instituição de Ensino que estudam para a sua casa e vice-versa. Ele permite que o aluno saiba onde o seu transporte está em tempo real e possibilita que ele mantenha contato com os estudantes que já estão dentro do veículo. Além de transportar os alunos, esse aplicativo tem por objetivo aproximá-lo do mundo acadêmico, pois, um dos fatores que resultam altas taxas de evasão nas universidades é o difícil acesso e a precária locomoção. Assim, visando resolver essa problemática e permitir que mais pessoas tenham acesso a um Ensino superior de qualidade, nós desenvolvemos esse aplicativo mobile.</p>
 </head>
 <body>
-    <p>Projeto desenvolvido para aplicação mobile, onde tivemos contato com varias ferramentas para 
-        construção do projeto como Figma, Diagrams.net, Intellij e Android Studio.</p>
-
+    <p>Este projeto foi desenvolvido para aplicação mobile, onde tivemos contato com várias ferramentas para 
+        construção do projeto como o Figma, Diagrams.net, Intellij e Android Studio.</p>
 <h1>Etapas da construção do projeto</h1>
  <ul>
             <li>Definição de Telas no papel</li>
@@ -55,7 +54,7 @@
    <p> Na tela do motorista haverá um botão com a funcionalidade de sinalizar a desativação de sua rota no momento em que o condutor encerrar o seu serviço. A partir     disto a sua rota é desligada automaticamente.</p>
   
 <h1>Projeto Figma</h1>
-<p>No périodo anterior fizemos o uso do Figma para modelagem de designer em outra disciplína, deste modo conseguimos criar algo mais próximo do que temos como ideal do visual do aplicativo desenvolvido nesse projeto.</p>
+<p>No périodo anterior fizemos o uso do Figma para a modelagem do designer do nosso projeto em outra disciplína, deste modo conseguimos criar algo mais próximo do que temos como ideal do visual final do aplicativo.</p>
 
 <img>![Imagem do WhatsApp de 2023-04-09 à(s) 11 00 30](https://user-images.githubusercontent.com/111431438/230777143-a4277f4c-afa3-49d6-9fdf-731d3fc7eb5c.jpg)</img>
 
