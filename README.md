@@ -7,7 +7,6 @@
     <h4>O Intransit é um aplicativo que tem a finalidade de ajudar alunos a se locomover da instituição para sua casa e vice-versa. Ele permite que o aluno saiba onde o seu transporte está em tempo real e possa manter contato com os estudantes que já estão dentro do veículo. Além de transportar os alunos, esse aplicativo tem por objetivo aproximá-lo do mundo acadêmico, pois, um dos fatores que levam as universidades terem bastante evasão é o difícil acesso e locomoção. Assim, visando resolver essa problemática e permitir que mais pessoas tenham acesso a um Ensino superior de qualidade, nós desenvolvemos esse aplicativo mobile.</4>
 </head>
 <body>
-
     Projeto desenvolvido para aplicação mobile, onde tivemos contato com varias ferramentas para 
     construção do projeto como Figma, Diagrams.net, Intellij e Android Studio.
 
