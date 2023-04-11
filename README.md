@@ -9,6 +9,15 @@
 <body>
     <p>Este projeto foi desenvolvido para aplicação mobile, onde tivemos contato com várias ferramentas para 
         construção do projeto como o Figma, Diagrams.net, Intellij e Android Studio.</p>
+    
+    <h1>Menbros</h1>
+    <ul>
+       <li><strong>Gustavo dos Santos Oliveira</strong> - Matrícula: 01538489</li>
+       <li><strong>HagassiHagassi Abrahão Gomes dos Santos</strong> - Matrícula: 01560411</li>
+       <li><strong>José Augusto de Oliveira Abreu</strong> - Matrícula: 01558864</li>
+       <li><strong>Maria Conceição Torres da Silva Alves</strong> - Matrícula: 01145991</li>
+       <li><strong>Willams Ramos da Silva</strong> - Matrícula: 101353101</li>
+     </ul>
 
 <h1>Etapas da construção do projeto</h1>
  <ul>
