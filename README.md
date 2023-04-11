@@ -36,7 +36,7 @@
   <h3> Realizar login da instituição</h3>
   <h4> Na tela de login, a instituição tera como seu user o cnpj e sua senha será criada pelo diretor ou responsavel da instituição.</h4>
   <h3> Habilitar rotas</h3>
-  <h4> A instituição habilitará as rotas através da geolocalização dos seus alunos e fará a rota mais ideal para seus motoristas terem eficiencia e rapidez no embarque e desenbaruqe dos alunos na instituição./h4>
+  <h4> A instituição habilitará as rotas através da geolocalização dos seus alunos e fará a rota mais ideal para seus motoristas terem eficiencia e rapidez no embarque e desenbaruqe dos alunos na instituição.</h4>
 <h3>Requisitos do aluno</h3>
   <h3> Realizar cadastro do aluno</h3>
   <h4> Na tela de cadastro, o aluno que faz parte de um instituição de ensino se cadastra nesse aplicativo, onde ele pode ver os motoristas que fazem rotas na sua localidade para leva-lo ate a instituição.</h4>
