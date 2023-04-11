@@ -59,13 +59,13 @@
 <img>![Imagem do WhatsApp de 2023-04-09 à(s) 11 00 30](https://user-images.githubusercontent.com/111431438/230777143-a4277f4c-afa3-49d6-9fdf-731d3fc7eb5c.jpg)</img>
 
 
-<h1>Fontes<h1>
+<h2>Fontes</h2>
     
   <img> ![Imagem do WhatsApp de 2023-04-10 à(s) 20 48 09](https://user-images.githubusercontent.com/111431438/231021729-11145c8a-68af-484a-9d29-3d25d6045ba0.jpg)
     </img>
 
 
- <h1>Cores</h1>
+ <h2>Cores</h2>
  
   <img> ![int3](https://user-images.githubusercontent.com/113267971/231018284-897755cc-230d-4e5a-b209-d5fbc28e5bb8.png)
 </img>
