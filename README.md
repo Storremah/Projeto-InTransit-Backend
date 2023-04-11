@@ -9,16 +9,6 @@
 <body>
     <p>Este projeto foi desenvolvido para aplicação mobile, onde tivemos contato com várias ferramentas para 
         construção do projeto como o Figma, Diagrams.net, Intellij e Android Studio.</p>
-    
- <h1>Membros</h1>
- <ul>
-       <li><strong>Gustavo dos Santos Oliveira</strong> - Matrícula: 01538489</strong></li>
-       <li><strong>HagassiHagassi Abrahão Gomes dos Santos</strong> - Matrícula: 01560411</strong></li>
-       <li><strong>José Augusto de Oliveira Abreu</strong> - Matrícula: 01558864</strong></li>
-       <li><strong>Maria Conceição Torres da Silva Alves</strong> - Matrícula: 01145991</strong></li>
-       <li><strong>Willams Ramos da Silva</strong> - Matrícula: 101353101</strong></li>
- </ul>
-
 <h1>Etapas da construção do projeto</h1>
  <ul>
             <li>Definição de Telas no papel</li>
@@ -42,16 +32,16 @@
 <h3>Requisitos da instituição</h3>
   <ul>
   <li><h4> Realizar cadastro da instituição</h4></li>
-  <p> Na tela de cadastro, a instituição colocará seus dados e um responsável para cuidar da tela instituição.</p>
+  <p> Na tela de cadastro, a instituição colocará seus dados e um responsavel para cuidar da tela instituição.</p>
   <li><h4> Realizar login da instituição</h4></li>
-  <p> Na tela de login, a instituição tera como seu user o cnpj e sua senha será criada pelo diretor ou responsável da instituição.</p>
+  <p> Na tela de login, a instituição tera como seu user o cnpj e sua senha será criada pelo diretor ou responsavel da instituição.</p>
   <li><h4> Habilitar rotas</h4></li>
-  <p> A instituição habilitará as rotas através da geolocalização dos seus alunos e fará a rota mais ideal para seus motoristas terem eficiência e rapidez no embarque e desembarque dos alunos na instituição.</p>
+  <p> A instituição habilitará as rotas através da geolocalização dos seus alunos e fará a rota mais ideal para seus motoristas terem eficiencia e rapidez no embarque e desenbaruqe dos alunos na instituição.</p>
 <h3>Requisitos do aluno</h3>
   <li><h4> Realizar cadastro do aluno</h4></li>
   <p> Na tela de cadastro, o aluno que faz parte de um instituição de ensino se cadastra nesse aplicativo, onde ele pode ver os motoristas que fazem rotas na sua localidade para leva-lo ate a instituição.</p>
   <li><h4> Realizar login do aluno </h4></li>
-  <p> Na tela de login o aluno ira efetuar seu login através de user e senha(gerada pela instituição), para acessar o corpo do aplicativo, e usufruir do mesmo.</p>
+  <p> Na tela de login o aluno ira efetuar seu login atraves de user e senha(gerada pela instituição), para acessar o corpo do aplicativo, e usufruir do mesmo.</p>
   <li><h4> Identificar localização do aluno</h4></li>
   <p> Na tela de localidade, ira mostrar a localização exata do aluno por meio do seu endereço. E nisso o motorista com a rota nessa área irá busca-lo, sem atrapalhar sua rota.</p>
 <h3>Requisitos do motorista</h3>
@@ -82,12 +72,16 @@
   <img> ![int3](https://user-images.githubusercontent.com/113267971/231018284-897755cc-230d-4e5a-b209-d5fbc28e5bb8.png)
 </img>
   
-  <h1>Diagrama-UML</h1>
+  <h1>Diagrama</h1>
   
 <img>![Imagem do WhatsApp de 2023-04-09 à(s) 10 05 27](https://user-images.githubusercontent.com/111431438/230778319-2a177a41-a2bf-4ebd-80be-5fcfda2d4c6c.jpg)
 </img>
 
 <img>![uml projeto](https://user-images.githubusercontent.com/111474763/231047755-0a8e4e5a-7c79-440d-8a04-f598cab92fd1.png)</img>
+
+<h1>JSON</h1>
+
+<img>![int5](https://user-images.githubusercontent.com/113267971/231237634-a2726957-4190-4d8f-b6d7-e4bf7d914614.png)</img>
 
 </body>
 </html>
