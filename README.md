@@ -4,7 +4,7 @@
 <head>
     <h1>Projeto-Intransit-de-Backend</h1>
     <h2>Tema: Figma, Modelagens UML e Pacote Json </h2>
-    <p>O Intransit é um aplicativo que tem a finalidade de ajudar alunos a se locomover da instituição para sua casa e vice-versa. Ele permite que o aluno saiba onde o seu transporte está em tempo real e possa manter contato com os estudantes que já estão dentro do veículo. Além de transportar os alunos, esse aplicativo tem por objetivo aproximá-lo do mundo acadêmico, pois, um dos fatores que levam as universidades terem bastante evasão é o difícil acesso e locomoção. Assim, visando resolver essa problemática e permitir que mais pessoas tenham acesso a um Ensino superior de qualidade, nós desenvolvemos esse aplicativo mobile.</p>
+    <p>OO Intransit é um aplicativo que tem a finalidade de ajudar alunos a se locomoverem da instituição de Ensino que estudam para a sua casa e vice-versa. Ele permite que o aluno saiba onde o seu transporte está em tempo real e possibilita que ele mantenha contato com os estudantes que já estão dentro do veículo. Além de transportar os alunos, esse aplicativo tem por objetivo aproximá-lo do mundo acadêmico, pois, um dos fatores que resultam altas taxas de evasão nas universidades é o difícil acesso e a precária locomoção. Assim, visando resolver essa problemática e permitir que mais pessoas tenham acesso a um Ensino superior de qualidade, nós desenvolvemos esse aplicativo mobile.</p>
 </head>
 <body>
     <p>Projeto desenvolvido para aplicação mobile, onde tivemos contato com varias ferramentas para 
