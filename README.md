@@ -52,12 +52,10 @@
   <h4> Habilitar ativação do motorista</h4>
   <p> Na tela do motorista, vai ter um botão para sinalizar sua ativação na rota. Com isso a Instituição liberará o motorista e sua rota personalizada.</p>
   <h3> Desabilitar ativação do motorista</h3>
-  <p> Na tela do motorista, vai ter um botão para sinalizar sua desativação na rota. Com isso a Instituição desliga o motorista e a rota.</p>
+   <p> Na tela do motorista haverá um botão com a funcionalidade de sinalizar a desativação de sua rota no momento em que o condutor encerrar o seu serviço. A partir     disto a sua rota é desligada automaticamente.</p>
   
-  
-<p>No périodo anterior fizemos o uso do Figma para modelagem de disign em outra disciplína, deste modo conseguimos criar algo mais próximo do que temos como ideal do visual do aplicativo desenvolvido nesse projeto.</p>
-
 <h1>Projeto Figma</h1>
+<p>No périodo anterior fizemos o uso do Figma para modelagem de designer em outra disciplína, deste modo conseguimos criar algo mais próximo do que temos como ideal do visual do aplicativo desenvolvido nesse projeto.</p>
 
 <img>![Imagem do WhatsApp de 2023-04-09 à(s) 11 00 30](https://user-images.githubusercontent.com/111431438/230777143-a4277f4c-afa3-49d6-9fdf-731d3fc7eb5c.jpg)</img>
 
