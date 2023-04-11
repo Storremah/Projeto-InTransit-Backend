@@ -16,7 +16,7 @@
        <li><strong>HagassiHagassi Abrahão Gomes dos Santos</strong> - Matrícula: 01560411</strong></li>
        <li><strong>José Augusto de Oliveira Abreu</strong> - Matrícula: 01558864</strong></li>
        <li><strong>Maria Conceição Torres da Silva Alves</strong> - Matrícula: 01145991</strong></li>
-       <li><strong>Willams Ramos da Silva</strong> - Matrícula: 101353101</strong></li>
+       <li><strong>Willams Ramos da Silva</strong> - Matrícula: 01353101</strong></li>
  </ul>
     
 <h1>Etapas da construção do projeto</h1>
