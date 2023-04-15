@@ -72,10 +72,6 @@
 
 <img>![completo](https://user-images.githubusercontent.com/113267971/232251947-0c59145d-393b-4140-8dae-10dd9c2eb5f5.png)</img>
 
-<h2>Imagens das telas do cadastro do motorista </h2>
-  
-  <img> ![int6](https://user-images.githubusercontent.com/113267971/231287336-23b68197-1262-436a-8a2a-cdc0f6065bdc.jpg) </img>
-
 <h2>Fontes</h2>
     
   <img> ![Imagem do WhatsApp de 2023-04-10 à(s) 20 48 09](https://user-images.githubusercontent.com/111431438/231021729-11145c8a-68af-484a-9d29-3d25d6045ba0.jpg)
