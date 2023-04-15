@@ -70,7 +70,7 @@
 
  <h2>Imagens das telas de cadastro e navegação do aluno</h2>
 
-<img>![Imagem do WhatsApp de 2023-04-09 à(s) 11 00 30](https://user-images.githubusercontent.com/111431438/230777143-a4277f4c-afa3-49d6-9fdf-731d3fc7eb5c.jpg)</img>
+<img>![completo](https://user-images.githubusercontent.com/113267971/232251947-0c59145d-393b-4140-8dae-10dd9c2eb5f5.png)</img>
 
 <h2>Imagens das telas do cadastro do motorista </h2>
   
@@ -84,8 +84,7 @@
 
  <h2>Cores</h2>
  
-  <img> ![int3](https://user-images.githubusercontent.com/113267971/231018284-897755cc-230d-4e5a-b209-d5fbc28e5bb8.png)
-</img>
+  <img>![cores](https://user-images.githubusercontent.com/113267971/232251974-ad75a50e-069f-416a-b7b6-fd28fbcd91ab.png)</img>
   
   <h1>Diagrama</h1>
   
