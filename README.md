@@ -4,7 +4,7 @@
 <head>
     <h1>Projeto-Intransit-de-Backend</h1>
     <h2>Tema: Figma, Modelagens UML e Pacote Json </h2>
-    <p>OO Intransit é um aplicativo que tem a finalidade de ajudar alunos a se locomoverem da instituição de Ensino que estudam para a sua casa e vice-versa. Ele permite que o aluno saiba onde o seu transporte está em tempo real e possibilita que ele mantenha contato com os estudantes que já estão dentro do veículo. Além de transportar os alunos, esse aplicativo tem por objetivo aproximá-lo do mundo acadêmico, pois, um dos fatores que resultam altas taxas de evasão nas universidades é o difícil acesso e a precária locomoção. Assim, visando resolver essa problemática e permitir que mais pessoas tenham acesso a um Ensino superior de qualidade, nós desenvolvemos esse aplicativo mobile.</p>
+    <p>O Intransit é um aplicativo que tem a finalidade de ajudar alunos a se locomoverem da instituição de Ensino que estudam para a sua casa e vice-versa. Ele permite que o aluno saiba onde o seu transporte está em tempo real e possibilita que ele mantenha contato com os estudantes que já estão dentro do veículo. Além de transportar os alunos, esse aplicativo tem por objetivo aproximá-lo do mundo acadêmico, pois, um dos fatores que resultam altas taxas de evasão nas universidades é o difícil acesso e a precária locomoção. Assim, visando resolver essa problemática e permitir que mais pessoas tenham acesso a um Ensino superior de qualidade, nós desenvolvemos esse aplicativo mobile.</p>
 </head>
 <body>
     <p>Este projeto foi desenvolvido para aplicação mobile, onde tivemos contato com várias ferramentas para 
@@ -76,7 +76,7 @@
     
     
 <h2> Realizar cadastro do aluno</h2>
-  <p> Na tela de primeiro acesso, o estudante que faz parte de um instituição de ensino superior realiza o seu cadastro no aplicativo. Para isto, ele só precisa apertar no botão de cadastro. Ao clicar no botão de cadastro ele é direcionado para a tela de preenchimendo de informações do usuário, porém o cadastro só é concluído quando o código correto da rota do qual ele faz parte é adicionado. Se todas as informações forem preenchidas corretamente o cadastro é validado e o seu vinculo ao motoristas que faz a sua rota é efetivado.</p>
+  <p> Na tela de primeiro acesso, o estudante que faz parte de um instituição de ensino superior é direcionado para outra tela onde realiza o seu cadastro no aplicativo. Para isto, ele só precisa apertar no botão de cadastro. Ao clicar no botão de cadastro ele é direcionado para a tela de preenchimendo de informações do usuário, porém o cadastro só é concluído quando o código correto da rota do qual ele faz parte é adicionado. Se todas as informações forem preenchidas corretamente o cadastro é validado e o seu vinculo ao motoristas que faz a sua rota é efetivado.</p>
   
  <img> ![tela2e3](https://user-images.githubusercontent.com/113267971/232327464-537042a4-0d1c-4731-a349-1cba372742f9.PNG)</img>
   
