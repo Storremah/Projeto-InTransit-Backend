@@ -38,10 +38,8 @@
             <li>Draw.io</li>
             <li>Android Studio</li>
         </ul>
-<h2>Relação de Caso de Uso</h2>
 
- 
-  <h1>Projeto Figma</h1>
+  <h1>Relação de Caso de Uso</h1>
   
   <p>No périodo anterior fizemos o uso do Figma para a modelagem do designer do nosso projeto em outra disciplína, deste modo conseguimos criar algo mais próximo do que temos como ideal do visual final do aplicativo.</p>
   
@@ -96,7 +94,7 @@
   
   <h2>Diagrama - UML</h2>
 
-<img>![uml projeto](https://user-images.githubusercontent.com/111474763/231047755-0a8e4e5a-7c79-440d-8a04-f598cab92fd1.png)</img>
+<img>![Imagem do WhatsApp de 2023-04-16 à(s) 20 40 14](https://user-images.githubusercontent.com/111431438/232349860-aab08107-12be-4e7e-a101-ca5eaa727918.jpg)</img>
 
 <h1>JSON</h1>
 
