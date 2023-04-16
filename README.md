@@ -38,34 +38,10 @@
             <li>Draw.io</li>
             <li>Android Studio</li>
         </ul>
-<h2>Requisitos funcionais</h2>
-<h3>Requisitos da instituição</h3>
-  <ul>
-  <li><h4> Realizar cadastro da instituição</h4></li>
-  <p> Na tela de cadastro, a instituição colocará seus dados e um responsavel para cuidar da tela instituição.</p>
-  <li><h4> Realizar login da instituição</h4></li>
-  <p> Na tela de login, a instituição tera como seu user o cnpj e sua senha será criada pelo diretor ou responsavel da instituição.</p>
-  <li><h4> Habilitar rotas</h4></li>
-  <p> A instituição habilitará as rotas através da geolocalização dos seus alunos e fará a rota mais ideal para seus motoristas terem eficiencia e rapidez no embarque e desenbaruqe dos alunos na instituição.</p>
-<h3>Requisitos do aluno</h3>
-  <li><h4> Realizar cadastro do aluno</h4></li>
-  <p> Na tela de cadastro, o aluno que faz parte de um instituição de ensino se cadastra nesse aplicativo, onde ele pode ver os motoristas que fazem rotas na sua localidade para leva-lo ate a instituição.</p>
-  <li><h4> Realizar login do aluno </h4></li>
-  <p> Na tela de login o aluno ira efetuar seu login atraves de user e senha(gerada pela instituição), para acessar o corpo do aplicativo, e usufruir do mesmo.</p>
-  <li><h4> Identificar localização do aluno</h4></li>
-  <p> Na tela de localidade, ira mostrar a localização exata do aluno por meio do seu endereço. E nisso o motorista com a rota nessa área irá busca-lo, sem atrapalhar sua rota.</p>
-<h3>Requisitos do motorista</h3>
-  <li><h4> Realizar cadastro do motorista</h4></li>
-  <p> Na tela de cadastro do motorista, ele ira se cadastra colocando suas informações pessoais, além de colocar os dados do seu veiculo. Nisso sera realizado uma avaliação para ver se o motorista e o veiculo estão aptos para a função. Estando apto ele reberá sua senha pessoal no email.</p>
-  <li><h4> Realizar login do motorista</h4></li>
-  <p> Na tela de login o motorista usará sua senha pessoal, que está no seu email para login no aplicativo.</p>
-  <li><h4> Habilitar ativação do motorista</h4></li>
-  <p> Na tela do motorista, vai ter um botão para sinalizar sua ativação na rota. Com isso a Instituição liberará o motorista e sua rota personalizada.</p>
-  <li><h4> Desabilitar ativação do motorista</h4></li>
-   <p> Na tela do motorista haverá um botão com a funcionalidade de sinalizar a desativação de sua rota no momento em que o condutor encerrar o seu serviço. A partir     disto a sua rota é desligada automaticamente.</p>
- </ul>
-  
-<h1>Projeto Figma</h1>
+<h2>Relação de Caso de Uso</h2>
+
+ 
+  <h1>Projeto Figma</h1>
   
   <p>No périodo anterior fizemos o uso do Figma para a modelagem do designer do nosso projeto em outra disciplína, deste modo conseguimos criar algo mais próximo do que temos como ideal do visual final do aplicativo.</p>
   
@@ -78,36 +54,36 @@
 <h2> Realizar cadastro do aluno</h2>
   <p> Na tela de primeiro acesso, o estudante que faz parte de um instituição de ensino superior é direcionado para outra tela onde realiza o seu cadastro no aplicativo. Para isto, ele só precisa apertar no botão de cadastro. Ao clicar no botão de cadastro ele é direcionado para a tela de preenchimendo de informações do usuário, porém o cadastro só é concluído quando o código correto da rota do qual ele faz parte é adicionado. Se todas as informações forem preenchidas corretamente o cadastro é validado e o seu vinculo ao motoristas que faz a sua rota é efetivado.</p>
   
- <img> ![tela2e3](https://user-images.githubusercontent.com/113267971/232327464-537042a4-0d1c-4731-a349-1cba372742f9.PNG)</img>
+  <img> ![tela2e3](https://user-images.githubusercontent.com/113267971/232327464-537042a4-0d1c-4731-a349-1cba372742f9.PNG)</img>
   
   <h2> Login no aplicativo </h2>
   <p> Na tela de login, o estudante entrará no aplicativo, mas para isso é necessário preencher os campos matrícula e senha, está última escolhida por ele no ato do cadastro. A partir disto ele já terá acesso a todos os serviços disponíveis pelo aplicativo.</p>
   
- <img>![tela4](https://user-images.githubusercontent.com/113267971/232332234-ad54e71b-4939-4c9b-a6f4-bac0731b284f.PNG)</img>
+  <img>![tela4](https://user-images.githubusercontent.com/113267971/232332234-ad54e71b-4939-4c9b-a6f4-bac0731b284f.PNG)</img>
 
     
  <h3> Tela principal </h3>
   <p> Está tela contém todas as opções que o usuário pode realizar enquanto estiver logado no aplicativo. </p>
    
- <img>![tela5](https://user-images.githubusercontent.com/113267971/232327931-a987bb42-a26e-4fe6-a82c-048e0fca852c.PNG) </img>
+   <img>![tela5](https://user-images.githubusercontent.com/113267971/232327931-a987bb42-a26e-4fe6-a82c-048e0fca852c.PNG) </img>
     
   <h2> Localização em tempo real </h2>
   <p> Um dos serviços disponíveis na tela principal do aplicativo é a localização em tempo real do motorista. Está opção permite que o estudante saiba a hora estimada que embarcará no transpote que o levará até o seu destino. Ela conta com dois botões que possui função de confirmar seu embarque e desembarque, que servem como controle de lista de chamada para o motorista e instituição, uma vez que, estes dados são enviado para ambos. </p>
     
- <img>![tela6](https://user-images.githubusercontent.com/113267971/232332514-a4862095-f44e-439f-bfc9-df9828544fb5.PNG)
+   <img>![tela6](https://user-images.githubusercontent.com/113267971/232332514-a4862095-f44e-439f-bfc9-df9828544fb5.PNG)
 </img>
     
   <h2> Histórico de viagens </h2>
   <p>Este serviço cataloga todas as viagens da rota feita pelo estudante. Ele conta com informações da data e horário em que embarcaram a caminho da instituição ou para a sua casa.</p>
   
- <img>![tela7](https://user-images.githubusercontent.com/113267971/232327982-fea23141-d6a5-4a36-8a67-c8491557ec43.PNG)</img>
+   <img>![tela7](https://user-images.githubusercontent.com/113267971/232327982-fea23141-d6a5-4a36-8a67-c8491557ec43.PNG)</img>
     
   <h2> Chat da rota </h2>
  <p>Este serviço tem o objetivo de permitir a comunicação entre membros da mesma rota, desta maneira, dúvidas podem ser tiradas e comunicados e alertas podem ser feitos.</p>
    
-<img> ![tela8](https://user-images.githubusercontent.com/113267971/232331954-c4ea9875-75ce-4c3a-80a7-0a635502023c.PNG) </img>
+   <img> ![tela8](https://user-images.githubusercontent.com/113267971/232331954-c4ea9875-75ce-4c3a-80a7-0a635502023c.PNG) </img>
   
-
+  
 <h2>Fontes</h2>
     
   <img> ![Imagem do WhatsApp de 2023-04-10 à(s) 20 48 09](https://user-images.githubusercontent.com/111431438/231021729-11145c8a-68af-484a-9d29-3d25d6045ba0.jpg)
@@ -118,10 +94,7 @@
  
   <img>![cores](https://user-images.githubusercontent.com/113267971/232251974-ad75a50e-069f-416a-b7b6-fd28fbcd91ab.png)</img>
   
-  <h1>Diagrama</h1>
-  
-<img>![Imagem do WhatsApp de 2023-04-09 à(s) 10 05 27](https://user-images.githubusercontent.com/111431438/230778319-2a177a41-a2bf-4ebd-80be-5fcfda2d4c6c.jpg)
-</img>
+  <h2>UML</h2>
 
 <img>![uml projeto](https://user-images.githubusercontent.com/111474763/231047755-0a8e4e5a-7c79-440d-8a04-f598cab92fd1.png)</img>
 
