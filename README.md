@@ -94,7 +94,7 @@
  
   <img>![cores](https://user-images.githubusercontent.com/113267971/232251974-ad75a50e-069f-416a-b7b6-fd28fbcd91ab.png)</img>
   
-  <h2>UML</h2>
+  <h2>Diagrama - UML</h2>
 
 <img>![uml projeto](https://user-images.githubusercontent.com/111474763/231047755-0a8e4e5a-7c79-440d-8a04-f598cab92fd1.png)</img>
 
